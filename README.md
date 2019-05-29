@@ -2,6 +2,7 @@
 ====================
 >[主页GitHub上地址:](https://zhuchaoyang1.github.io/my/dist/#/)<br>
 以下为我的主页部分截图：<br>
+
 1.1 站点首页
 ----------------
 ![首页](https://github.com/zhuchaoyang1/zhuchaoyang1.github.io/blob/master/images/Index.jpg)<br><br>
